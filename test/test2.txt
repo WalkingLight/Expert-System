@@ -1,0 +1,7 @@
+# test basic xor function
+
+V ^ W => !X
+
+=V
+
+?X

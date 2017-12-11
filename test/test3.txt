@@ -1,0 +1,13 @@
+# test basic and function
+
+A + B + !E => C
+C => D + E + F
+!F + G => H
+I + !J => K
+!L + !M => N
+O => !P + Q
+                    # RSTUVWXYZ
+
+=AB
+
+?CDEFGHIJKLMNOPQ
